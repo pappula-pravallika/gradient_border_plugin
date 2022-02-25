@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gradient_border.iml" filepath="$PROJECT_DIR$/gradient_border.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/gradient_border_android.iml" filepath="$PROJECT_DIR$/android/gradient_border_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/gradient_border_example_android.iml" filepath="$PROJECT_DIR$/example/android/gradient_border_example_android.iml" />
+    </modules>
+  </component>
+</project>
